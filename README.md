@@ -54,6 +54,7 @@ I deny any and all responsibility about the consequences of using /e/ software a
     * Once finished, `TWRP > Home > Reboot > System`
 ---
 <sup>1</sup> https://eu.dl.twrp.me/chiron/twrp-3.3.1-1-chiron.img.html
+
 <sup>2</sup> adb usb link help
 * $ lsusb
     > Bus 002 Device 009: ID 18d1:d00d Google Inc.
