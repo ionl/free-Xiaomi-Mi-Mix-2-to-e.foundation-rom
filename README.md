@@ -1,6 +1,8 @@
 ### Device : Xiaomi Mi Mix 2
 * Before : Android 9 MIUI Global 10.4.1
 * After : /e/ Android 8.1.0 : https://e.foundation/
+    * [gitlab issue](https://gitlab.e.foundation/groups/e/-/boards/12?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=chiron)
+    * [latest rom](https://images.ecloud.global/dev/chiron/)
 
 #### [Thanks to androidinfotech](https://www.androidinfotech.com/root-xiaomi-mi-mix-2-oreo/)
 ---
